@@ -5,8 +5,8 @@
     {
       "label": "menu.authentication",
       "menu": "start/myfirstview",
-      "urlKey": "etsy-authentication",
-      "entryPoint": "index.html?action=auth"
-    },
+      "urlKey": "myfirstview",
+      "entryPoint": "index.html"
+    }
   ]
 }
