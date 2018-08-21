@@ -4,7 +4,7 @@
   "menuEntries": [
     {
       "label": "menu.authentication",
-      "menu": "settings/markets/myfirstview",
+      "menu": "start/myfirstview",
       "urlKey": "etsy-authentication",
       "entryPoint": "index.html?action=auth"
     },
