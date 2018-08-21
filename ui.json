@@ -1,6 +1,6 @@
 {
   "defaultEntryPoint": "index.html",
-  "namespace": "FirstView",
+  "namespace": "MyFirstView",
   "menuEntries": [
     {
       "label": "Hello World",
